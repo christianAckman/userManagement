@@ -1,0 +1,18 @@
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe.config
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe.manifest
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.application
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.pdb
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\System.Management.Automation.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\Interop.ActiveDs.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\UserManagement.csproj.ResolveComReference.cache
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.UserManagementView.resources
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.Properties.Resources.resources
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\UserManagement.csproj.GenerateResource.Cache
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.TrustInfo.xml
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.exe.manifest
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.application
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.exe
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.pdb

@@ -1,0 +1,41 @@
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\Interop.ActiveDs.dll
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.ResolveComReference.cache
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.Properties.Resources.resources
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.GenerateResource.Cache
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\User Management.exe.config
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\User Management.TrustInfo.xml
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\User Management.exe
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\User Management.pdb
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.csprojResolveAssemblyReference.cache
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\User Management.exe.manifest
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\User Management.application
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\User Management.exe
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\User Management.pdb
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\User Management.exe.manifest
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\User Management.application
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.LogIn.resources
+C:\Users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.UserManagement.resources
+C:\Users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.Tools.resources
+C:\Users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\bin\Debug\System.Management.Automation.dll
+C:\Users\cackman\documents\visual studio 2015\Projects\MasterApp\MasterApp\obj\Debug\MasterApp.EmailManagement.resources
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe.config
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\Interop.ActiveDs.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.ResolveComReference.cache
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe.manifest
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.application
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.exe
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\User Management.pdb
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\System.Management.Automation.dll
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.csprojResolveAssemblyReference.cache
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.UserManagementView.resources
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.Properties.Resources.resources
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.GenerateResource.Cache
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.TrustInfo.xml
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.exe.manifest
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.application
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.exe
+C:\Users\cackman\Desktop\prog123\MasterApp\MasterApp\obj\Debug\User Management.pdb
